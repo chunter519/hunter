@@ -67,7 +67,7 @@ li a:hover {
 
 body {
   position: relative;
-  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/ATOM/hunter-design/images/empire.jpg");
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/empire.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
