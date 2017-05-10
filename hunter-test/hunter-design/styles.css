@@ -65,9 +65,36 @@ li a:hover {
   color: #3D9970;
 }
 
-body {
+.body {
   position: relative;
   background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/empire.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
+  min-height: 100%;
+}
+
+.portfolio {
+    background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/Lichfield_Cathedral.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+.pricing {
+      background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/vaultcircle.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: bottom;
+      background-attachment: fixed;
+      min-height: 100%;
+}
+
+.testimonials {
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/speakeasy.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
