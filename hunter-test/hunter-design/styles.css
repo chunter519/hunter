@@ -32,6 +32,10 @@ span {
   color: #FFFFFF;
 }
 
+a {
+  text-decoration: none;
+}
+
 p {
   font-weight: bolder;
   font-family: arial;
@@ -97,6 +101,15 @@ li a:hover {
   background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/speakeasy.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: bottom;
+  background-attachment: fixed;
+  min-height: 100%;
+}
+
+.partners {
+  background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url("/Users/Chris/hunter-test/hunter-design/images/partners.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   background-position: bottom;
   background-attachment: fixed;
   min-height: 100%;
